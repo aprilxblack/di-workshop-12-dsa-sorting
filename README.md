@@ -81,6 +81,7 @@ function getRandomInt(max) {
 ```
 
 **1. Make a copy of your bubble sort algorithm, and replace the hard-coded array with a loop that generates an array of 1000 random integers.**
+Oh crap, I've already done that haha, I didn't feel like adding a 100 numbers manually
 
 **2. Add some code to measure the time it takes for the sorting algorithm to execute (print the time at which the algorithm started, the time at which it ended and the time that elapsed while it was running).**
 
